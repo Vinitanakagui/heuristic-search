@@ -20,4 +20,4 @@ Este projeto em **Java** implementa e compara dois algoritmos de busca heurísti
 ## Mapa de Cidades  
 Para a execução dos algoritmos, foi utilizado um mapa de cidades da Romênia. A imagem abaixo ilustra as conexões entre as cidades e as distâncias (custos) de cada trecho. A tabela à direita apresenta os valores da heurística (h(n)) para cada cidade, que correspondem à distância em linha reta até Bucareste.
 
-![Mapa das Cidades](./mapa.jpg)  
+![Mapa das Cidades](./Mapa.jpg)  
