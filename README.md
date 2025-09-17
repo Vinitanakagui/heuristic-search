@@ -19,4 +19,4 @@ Este projeto implementa os algoritmos de **Busca Gulosa** e **Busca A*** no clá
 ## Mapa da Romênia  
 As heurísticas foram baseadas nas distâncias em linha reta até Bucareste.  
 
-![Mapa das Cidades](./Mapa.png)  
+![Mapa das Cidades](/Mapa.png)  
